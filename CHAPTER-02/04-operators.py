@@ -24,7 +24,13 @@ print("Comparison Operators")
 e = 5 < 4
 print(e)       # Output: False (5 is not less than 4)
 
+e = 5 > 4
+print(e)       # Output: True (5 is not less than 4)
+
 e = 5 <= 5
+print(e)       # Output: True (5 is less than or equal to 5)
+
+e = 5 >= 5
 print(e)       # Output: True (5 is less than or equal to 5)
 
 e = 5 != 7

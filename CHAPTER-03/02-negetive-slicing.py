@@ -20,7 +20,7 @@ _no = 1234567890
 _no_str = str(_no)
 
 # Print characters from index 1 to 6 with step 2: indices 1, 3, 5
-print(_no_str[1 : 7 : 2])  # Output: 35  (indexes 1='2', 3='4', 5='6')
+print(_no_str[1 : 7 : 2])  # Output: 246  (indexes 1='2', 3='4', 5='6')
 
 # Print every 3rd character starting from index 0
 print(_no_str[0 : : 3])    # Output: 1470 (indexes 0,3,6,9)

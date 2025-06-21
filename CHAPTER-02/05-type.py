@@ -18,6 +18,10 @@ print(type(a))  # <class 'bool'> — a is a boolean value (False)
 a = None
 print(type(a))  # <class 'NoneType'> — a is a NoneType (represents null or no value)
 
+# Type conversion from string to input
+b = "22"
+print(int(b), type(int(b)))  # 22 <class 'int'> - string converted to int
+
 # Type conversion from string to float
 b = "32.12"
 print(float(b), type(float(b)))  # 32.12 <class 'float'> — string converted to float

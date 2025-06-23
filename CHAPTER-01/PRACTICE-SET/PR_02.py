@@ -9,4 +9,4 @@ print(f"5 X 6 = {5*6}")   # Output: 5 X 6 = 30
 print(f"5 X 7 = {5*7}")   # Output: 5 X 7 = 35
 print(f"5 X 8 = {5*8}")   # Output: 5 X 8 = 40
 print(f"5 X 9 = {5*9}")   # Output: 5 X 9 = 45
-print(f"5 X 10 = {5*10}") # Output: 5 X 10 = 50
+print(f"5 X 10 = {5*10}")  # Output: 5 X 10 = 50

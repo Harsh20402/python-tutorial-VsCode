@@ -1,3 +1,5 @@
+# In Python, a string is a sequence of characters, representing text-based data. Strings are a fundamental data type and are immutable, meaning their content cannot be changed after creation.
+
 # Different ways to define a string in Python
 a = 'Harsh'       # Single quote string
 b = "Harsh"       # Double quote string

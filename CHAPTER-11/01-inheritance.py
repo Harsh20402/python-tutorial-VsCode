@@ -2,6 +2,8 @@
 class Employee:
     # Class attribute shared by all Employee instances
     company = "ITC"
+    name = "Default Name"
+    salary = 120000
     
     # Method to display employee details (name and salary)
     def show(self):
@@ -11,6 +13,7 @@ class Employee:
 class Programmer(Employee):
     # Overrides the 'company' attribute for Programmer instances
     company = "Numone Technologies"
+    language = "Python"
     
     # Method to display programmer's language skill
     def showlanguage(self):

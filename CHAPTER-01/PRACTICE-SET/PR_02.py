@@ -1,4 +1,4 @@
-# Use REPL and print the table of 5
+# Use REPL and print the table of 5.
 
 print(f"5 X 1 = {5*1}")   # Output: 5 X 1 = 5
 print(f"5 X 2 = {5*2}")   # Output: 5 X 2 = 10

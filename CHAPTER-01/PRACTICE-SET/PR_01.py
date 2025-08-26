@@ -1,6 +1,6 @@
 # Write a program to print Twinkle Twinkle little star poem in python.
 
-# Using triple quotes (""") to print multi-line string
+# Using triple quotes (""") to print multi-line string.
 print("""
 Twinkle twinkle little star.
 How I wonder what you are.

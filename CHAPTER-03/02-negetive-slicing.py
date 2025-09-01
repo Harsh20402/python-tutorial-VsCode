@@ -16,7 +16,7 @@ print(_name[1 : 4])  # Output: ars
 # Assign an integer
 _no = 1234567890
 
-# Convert the number to a string for slicing
+# Convert the number to a string for slicing.
 _no_str = str(_no)
 
 # Print characters from index 1 to 6 with step 2: indices 1, 3, 5
